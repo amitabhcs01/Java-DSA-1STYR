@@ -1,9 +1,5 @@
-/**
- * Main
- */
 public class Main {
-
     public static void main(String[] args) {
-        System.out.println("amitabh ranjan");
+        System.out.println("hello bhaiya");
     }
 }
